@@ -1,0 +1,68 @@
+body{
+    background-image:url(../images/fondo1.jfif)
+}
+
+
+img{
+    width: 80%;
+    width: 300px;
+    height: 300px;
+}
+h1{
+    width: 895px;
+    margin-top: 110px;
+    float: left;
+}
+
+
+h1, h2{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(165, 124, 243);
+    
+}
+
+p{
+    text-align: justify;
+    color: black;
+    
+}
+
+main{
+    width:80%;
+    background-color: aliceblue;
+    margin: 0 auto;
+
+}
+
+nav ul{
+    display: inline;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 7px 10px;
+    margin: 0 20px 0 0;
+    border: 1px solid rgb(234, 27, 241);
+    background: rgb(245, 153, 237);
+    color:rgb(19, 12, 18);
+}
+
+nav ul li a:hover{
+    background: rgb(165, 124, 243);
+    color:rgb(234, 27, 241);
+}
+
+.perrito{
+    float: left; 
+}
+..
+.clear{
+    clear: both;
+}
+
